@@ -7,7 +7,7 @@ Let’s make our first task. Please make a select statement which returns all pe
 SELECT * FROM person WHERE address = 'Kazan'
 ```
 
-![alt](image.png) 
+![alt](image.jpg) 
 
 
 #### Exercise 01 - First steps into SQL world
